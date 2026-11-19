@@ -1,0 +1,18 @@
+# day-1 30DaysOfPython Challenge
+
+print (2 + 3)
+print (100 - 25)
+print (2 * 9)
+print (4 % 21)
+print (6 / 12)
+print (5 ** 2)
+print (2 // 3)
+print ('Sabreen')
+print ('Dangasiya')
+print ('India')
+print ('I am enjoying 30 days of Python')
+print (type (10))
+print (type (9.8))
+print (type (4 - 4j))
+print (type (['Asabeneh', 'python', 'Finland']))
+print (type ('Sabreen'))
